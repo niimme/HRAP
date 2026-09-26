@@ -1,4 +1,5 @@
 # HRAP: Computer Science Education & Gamification Research
+### Undergraduate Honors Computer Science Research | University of Oklahoma
 
 Supporting **Dr. Jie Cao** in research dedicated to improving the effectiveness of computer science education by investigating the impacts of gamification and customizing interactive Jupyter Notebook environments using Python.
 
@@ -67,6 +68,8 @@ Open `Arrays.ipynb` to run the interactive exercise cells.
 
 ## 👥 Research & Collaboration
 
-* **Faculty Mentor**: Dr. Jie Cao
-* **Researcher**: Nicholas Immenschuh
+* **Program**: Honors Research Assistant Program (HRAP)
+* **Project**: Undergraduate Honors Computer Science Research
 * **Institution**: University of Oklahoma
+* **Faculty Mentor**: Dr. Jie Cao
+* **Undergraduate Researcher**: Nicholas Immenschuh
